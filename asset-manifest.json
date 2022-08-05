@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fcc-challenge-4/static/css/main.99242a1a.css",
+    "main.js": "/fcc-challenge-4/static/js/main.39317ef4.js",
+    "static/js/787.8d70283d.chunk.js": "/fcc-challenge-4/static/js/787.8d70283d.chunk.js",
+    "index.html": "/fcc-challenge-4/index.html",
+    "main.99242a1a.css.map": "/fcc-challenge-4/static/css/main.99242a1a.css.map",
+    "main.39317ef4.js.map": "/fcc-challenge-4/static/js/main.39317ef4.js.map",
+    "787.8d70283d.chunk.js.map": "/fcc-challenge-4/static/js/787.8d70283d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99242a1a.css",
+    "static/js/main.39317ef4.js"
+  ]
+}
